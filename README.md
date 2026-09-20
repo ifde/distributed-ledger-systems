@@ -1,2 +1,3 @@
-# distributed-ledger-systems
-Coursework for "Mathematical Methods for Distributed Ledger Systems". 
+# Coursework for "Mathematical Methods for Distributed Ledger Systems" class. 
+
+
