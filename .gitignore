@@ -1,0 +1,47 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Python bytecode and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and package/build output
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS / editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local blockchain data
+ganache-data/
+hardhat-deploy/
+cache/
+artifacts/
+
